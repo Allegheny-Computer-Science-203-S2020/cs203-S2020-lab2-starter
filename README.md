@@ -22,7 +22,7 @@ ensure that:
 - You have followed the required best practices for asking the course instructor
   for feedback on the work that you completed for this laboratory assignment.
 
-## References to the Shared GitHub Repositories
+## References to the Shared GitHub Repository
 
 As part of this assignment, you will work in an entire-class team to complete
 all of the required tasks in the two following repositories:
